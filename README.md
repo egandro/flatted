@@ -113,3 +113,9 @@ Flatted.stringify(a);
 // [["1","2"],{"one":1,"a":"0"},{"two":"3"},"2"]
 // a[one,two]    {one: 1, a}    {two: '2'}  '2'
 ```
+
+## Golang support
+
+```bash
+go get github.com/WebReflection/flatted
+```
